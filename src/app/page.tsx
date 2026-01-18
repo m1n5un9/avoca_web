@@ -40,7 +40,7 @@ export default function Home() {
                         <div className="corporate-info">
                             <h3 style={{ fontSize: '1rem', color: 'white', marginBottom: '15px' }}>Corporate Information</h3>
                             <p><strong>Company Name:</strong> Levup Co., Ltd.</p>
-                            <p><strong>Contact:</strong> support@levup.co.kr</p>
+                            <p><strong>Contact:</strong> support@avoca.im</p>
                         </div>
                     </div>
                     <div style={{ marginTop: '40px', paddingTop: '20px', borderTop: '1px solid rgba(255,255,255,0.05)', fontSize: '0.8rem', opacity: 0.5 }}>
