@@ -1,6 +1,7 @@
 {
   "name": "avoca_web",
   "version": "1.0.0",
+  "type": "module",
   "description": "",
   "main": "index.js",
   "directories": {
@@ -19,7 +20,6 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
   "bugs": {
     "url": "https://github.com/m1n5un9/avoca_web/issues"
   },
